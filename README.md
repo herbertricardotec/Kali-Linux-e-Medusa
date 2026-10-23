@@ -70,6 +70,6 @@ Apenas orientação genérica de setup de VMs e rede isolada. Não inclua os pas
 - Materiais de estudo que você consultou
 
 ## Autor
-Seu nome  
-Link do perfil LinkedIn / GitHub  
-Data
+Herbert Ricardo
+[Link do perfil LinkedIn / GitHub ](https://www.linkedin.com/in/herbert-ricardo-tec) 
+23/10/2026
